@@ -24,6 +24,12 @@
         <feign.version>12.1</feign.version>
         <tinylog.version>2.6.0</tinylog.version>
     </properties>
+    <distributionManagement>
+        <repository>
+            <id>github</id>
+            <url>https://maven.pkg.github.com/INBPA0420L/working-with-github-ahsan10041</url>
+        </repository>
+    </distributionManagement>
     <dependencies>
         <dependency>
             <groupId>io.github.openfeign</groupId>
