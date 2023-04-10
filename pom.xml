@@ -21,7 +21,7 @@
         <project.build.outputEncoding>UTF-8</project.build.outputEncoding>
         <maven.compiler.release>17</maven.compiler.release>
         <mainClass>geolocator.Main</mainClass>
-        <feign.version>12.2</feign.version>
+        <feign.version>12.3</feign.version>
         <tinylog.version>2.6.0</tinylog.version>
     </properties>
     <distributionManagement>
